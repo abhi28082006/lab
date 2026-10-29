@@ -1,0 +1,3 @@
+Library Management System
+The system manages books and authors.
+It maintains student and librarian records.
