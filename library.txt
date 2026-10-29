@@ -1,3 +1,4 @@
 Library Management System
-The librarian manages book issue and return records.
+The librarian manages books while the developer maintains the library software.
 It maintains student and librarian records.
+It tracks book issue and return details.
